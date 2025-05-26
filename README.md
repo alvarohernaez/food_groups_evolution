@@ -25,4 +25,4 @@
 
 ## Syntax available
 Available files: 
-- syntax: syntax for analyses
+- food_group_evolution: syntax for analyses
